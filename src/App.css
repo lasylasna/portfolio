@@ -9,7 +9,7 @@
 }
 
 body {
-font-family: "Roboto Condesed", sans-serif;
+font-family: "Roboto Condensed", sans-serif !important;
 }
 
 
@@ -70,7 +70,6 @@ nav ul li {
   background-size: cover;
   background-position: center;
   height: 90vh;
-  margin-top: -30px;
 }
 
 .main-info {
@@ -84,7 +83,6 @@ nav ul li {
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-family: "Roboto Condesed", sans-serif;
   z-index: 1;
 }
 
@@ -137,5 +135,30 @@ nav ul li {
 @media(max-width: 768px) {
   .particles-canvas {
     display: none;
+  }
+}
+
+/************************ ABOUT ME *********************************/
+.photo-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-img {
+  width: 16rem;
+  border-radius: 50%;
+  padding: .3rem;
+  border: 1px solid var(--primary-orange);
+}
+
+.about-heading {
+  color: var(--primary-orange);
+  text-transform: uppercase;
+}
+
+@media(max-width: 468px) {
+  .profile-img {
+    width: 10rem;
   }
 }
