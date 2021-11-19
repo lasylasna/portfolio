@@ -18,6 +18,15 @@ const TestimonialsCarousel = () => {
       autoPlay={true}
       interval={3000}
     >
+
+      <>
+        <img src={avatar3} alt="Halza Software Solution LLC" />
+        <div className="myCarousel">
+          <h3>Halza Software Solution LLC </h3>
+          {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ratione sequi saepe dicta blanditiis, molestias eum excepturi quod fugiat veniam!</p> */}
+        </div>
+      </>
+
       <>
         <img src={avatar1} alt="Three Phase Techno Solutions ( I ) Pvt Ltd." />
         <div className="myCarousel">

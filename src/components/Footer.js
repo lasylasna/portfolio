@@ -68,13 +68,13 @@ const Footer = () => {
               >
                 <RedditIcon className="mx-3" size={36} />
               </RedditShareButton> */}
-              <LinkedinShareButton
+              {/* <LinkedinShareButton
                 url={"https://www.linkedin.com/in/lasna-kollathodi-a84859144/"}
                 quote={"FullStack Developer"}
                 hashtag="#javascript"
               >
                 <LinkedinIcon className="mx-3" size={36} />
-              </LinkedinShareButton>
+              </LinkedinShareButton> */}
             </div>
             {/* <p className="pt-3 text-center">
               Copyright&copy;
