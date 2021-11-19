@@ -1,4 +1,5 @@
 {
+  "homepage": "https://las2020.github.io/portfolio/",
   "name": "portfolio_website",
   "version": "0.1.0",
   "private": true,
@@ -11,25 +12,28 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^5.0.0",
+    "emailjs": "^3.4.0",
     "emailjs-com": "^2.6.4",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-hook-form": "^6.13.1",
     "react-particles-js": "^3.4.1",
     "react-popupbox": "^2.0.8",
-    "react-scripts": "4.0.3",
-    "react-typed": "^1.2.0",
-    "web-vitals": "^1.0.1",
-    "emailjs": "^3.4.0",
     "react-responsive-carousel": "^3.2.11",
+    "react-scripts": "4.0.3",
     "react-scroll": "^1.8.1",
-    "react-share": "^4.3.1"
+    "react-share": "^4.3.1",
+    "react-typed": "^1.2.0",
+    "web-vitals": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
