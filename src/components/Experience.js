@@ -7,22 +7,44 @@ const Experience = () => {
         <h1>experience</h1>
       </div>
       <div className="container experience-wrapper">
+
+        <div className="timeline-block timeline-block-left">
+          <div className="marker"></div>
+          <div className="timeline-content">
+            <h3>2021-Present</h3>
+            <h5>Front End Developer, Halza Software Solution LLC</h5>
+            <p>Collaborate with Team mates and management, to achieve optimal application architecture and design.
+              <br />Develop efficient and secure applications within an agile-blended software environment.
+              <br />
+              Design Cross-browser compactible Web view UI as per the requirement.
+              <br />
+              Build progressive web apps (PWA) with Angular.
+              <br />
+              Implement Caching Strategy to enhance browsing experience.
+              <br />
+              Testing and Debugging continuously with quality assurance to improve processes and engineering excellence.
+            </p>  </div>
+        </div>
+
+        {/* Three Phase Techno Solution (I) Pvt Ltd */}
+
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2020-Present</h3>
+            <h3>2020-2021</h3>
             <h5>Development Engineer, Three Phase Techno Solution (I) Pvt Ltd</h5>
             <p>Created web applications from scratch with PERN stack.
-            <br/>Collaborated closely with clients, both remotely and in-person, to bring their ideas to life.
+              <br />Collaborated closely with clients, both remotely and in-person, to bring their ideas to life.
               <br />
-Implemented Page Optimization techniques, Best Practices in Javascript and React.js .
+              Implemented Page Optimization techniques, Best Practices in Javascript and React.js .
               <br />
-Organized UI in order to make app responsive, accessible and give great user experience .
+              Organized UI in order to make app responsive, accessible and give great user experience .
               <br />
-Developed customized plugins for Data visualization using React.js (Typescript), HTML and CSS.
-</p>  </div>
+              Developed customized plugins for Data visualization using React.js (Typescript), HTML and CSS.
+            </p>  </div>
         </div>
-        {/* - */}
+      
+        {/* Ashtec Contractors Pvt Ltd */}
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
@@ -31,14 +53,14 @@ Developed customized plugins for Data visualization using React.js (Typescript),
             <p>
               Track project progress according to the project plan.
               <br />
-             Create and maintain comprehensive project documentation, plans and reports.
-<br />
-Coordinate activities, resources, equipment and information.
+              Create and maintain comprehensive project documentation, plans and reports.
+              <br />
+              Coordinate activities, resources, equipment and information.
             </p>
-           
+
           </div>
         </div>
-        {/* - */}
+        {/* Babte Technologies Pvt Ltd */}
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
@@ -48,13 +70,13 @@ Coordinate activities, resources, equipment and information.
               Participated in designing and developing of various applications.
               <br />
               Designed and developed ASP.NET GUI for user interface with various Server Controls (textbox,
-labels, validations controls…).
-<br />
-Wrote MySQL queries for database management system.
-<br />
-Developed stored procedures for lowering traffic between servers and clients.
+              labels, validations controls…).
+              <br />
+              Wrote MySQL queries for database management system.
+              <br />
+              Developed stored procedures for lowering traffic between servers and clients.
             </p>
-            </div>
+          </div>
         </div>
         {/* - */}
         {/* <div className="timeline-block timeline-block-left">

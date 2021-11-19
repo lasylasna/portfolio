@@ -13,9 +13,9 @@ const AboutMe = () => {
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">about me</h1>
           <p>
-            Hello! I am Lasna. I have been developing websites for over 2 years. I'm Full-Stack Web Developer. Technologies I use is PERN(PSQL, Express, ReactJS and NodeJS).
+            Hello! I am Lasna. I have been developing websites for over 2 years. I'm Full-Stack Web Developer. Technologies I use is Angular,ReactJS,NodeJS and PSQL.
 
-            I create responsive websites/web applications that are displayed on all devices desktops and smartphones.And I’m ready to do this for you.
+            I create Cross-browser compactible Web view UI, websites and web applications that are displayed on all devices desktops,smartphones... .And I’m ready to do this for you.
 
             {/* Of course, before I begin developing any webapp, Landing Page, Business Website or E-commerce, I need to have a ready-made project layout (sketch). */}
 
