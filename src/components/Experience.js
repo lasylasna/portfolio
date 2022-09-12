@@ -13,16 +13,18 @@ const Experience = () => {
           <div className="timeline-content">
             <h3>2021-Present</h3>
             <h5>Front End Developer, Halza Software Solution LLC</h5>
-            <p>Collaborate with Team mates and management, to achieve optimal application architecture and design.
-              <br />Develop efficient and secure applications within an agile-blended software environment.
+            <p>Front-end (web) development, test, release and support for HALZA’s digital health solution within an agile-blended software environment.
+              <br />Develop and implement practical technical solutions to support product discovery and business development initiatives.
               <br />
-              Design Cross-browser compactible Web view UI as per the requirement.
+              Work closely with other members of the product development team to align technical solutions with the existing architecture. Perform quality reviews and deploy updates and fixes.
               <br />
-              Build progressive web apps (PWA) with Angular.
+              Tackle diverse business challenges with a focus on triaging and providing simple technical or operational workarounds.
               <br />
-              Implement Caching Strategy to enhance browsing experience.
+              Contribute to developing internal processes to increase efficiency and stability.
               <br />
-              Testing and Debugging continuously with quality assurance to improve processes and engineering excellence.
+              Adjust standard procedures, when necessary, after benefits and risks assessments in response to changing situations.
+              <br/>
+              Implement translations, Caching strategy, iframe, PWA and SignalR.
             </p>  </div>
         </div>
 
@@ -33,7 +35,7 @@ const Experience = () => {
           <div className="timeline-content">
             <h3>2020-2021</h3>
             <h5>Development Engineer, Three Phase Techno Solution (I) Pvt Ltd</h5>
-            <p>Created web applications from scratch with PERN stack.
+            <p>Developed efficient and secure web applications (<b>Full stack</b>) within an agile blended software environment
               <br />Collaborated closely with clients, both remotely and in-person, to bring their ideas to life.
               <br />
               Implemented Page Optimization techniques, Best Practices in Javascript and React.js .
@@ -48,14 +50,14 @@ const Experience = () => {
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2015-2017</h3>
-            <h5>Project Coordinator, Ashtec Contractors Pvt Ltd</h5>
+            <h3>2015-2016</h3>
+            <h5>Junior Web Developer, Babte Technologies Pvt Ltd</h5>
             <p>
-              Track project progress according to the project plan.
+            Developed the front end of the entire website using HTML5, CSS3, jQuery, JSON, Ajax and JavaScript
               <br />
-              Create and maintain comprehensive project documentation, plans and reports.
+              Converted raw images and layouts from a graphic designer in to CSS/HTML/SVG themes.
               <br />
-              Coordinate activities, resources, equipment and information.
+              Created dynamic webpage using API calls.
             </p>
 
           </div>
@@ -67,47 +69,14 @@ const Experience = () => {
             <h3>2014-2015</h3>
             <h5>Software Engineer Trainee, Babte Technologies Pvt Ltd </h5>
             <p>
-              Participated in designing and developing of various applications.
+            Participated in designing and developing of various applications using ASP.NET
               <br />
-              Designed and developed ASP.NET GUI for user interface with various Server Controls (textbox,
-              labels, validations controls…).
-              <br />
-              Wrote MySQL queries for database management system.
-              <br />
-              Developed stored procedures for lowering traffic between servers and clients.
+            Wrote SQL queries, stored procedures and transaction queries..
+             
             </p>
           </div>
         </div>
-        {/* - */}
-        {/* <div className="timeline-block timeline-block-left">
-          <div className="marker"></div>
-          <div className="timeline-content">
-            <h3>2016-2017</h3>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit omnis laboriosam odio deserunt reprehenderit optio cum ratione sequi pariatur deleniti iste perspiciatis officiis minima iusto hic, ipsa ea dicta velit! Quos, placeat ratione. Sunt cumque delectus asperiores et quas qui.</p>
-          </div>
-        </div> */}
-        {/* - */}
-        {/* <div className="timeline-block timeline-block-right">
-          <div className="marker"></div>
-          <div className="timeline-content">
-            <h3>2017-2018</h3>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit omnis laboriosam odio deserunt reprehenderit optio cum ratione sequi pariatur deleniti iste perspiciatis officiis minima iusto hic, ipsa ea dicta velit! Quos, placeat ratione. Sunt cumque delectus asperiores et quas qui.</p>
-          </div>
-        </div> */}
-        {/* - */}
-        {/* <div className="timeline-block timeline-block-left">
-          <div className="marker"></div>
-          <div className="timeline-content">
-            <h3>2020-Present</h3>
-            <p>Created web applications from scratch with PERN stack</p>
-            <p>Collaborated closely with clients, both remotely and in-person, to bring their ideas to life.
-</p>
-            <p>Implemented Page Optimization techniques, Best Practices in Javascript and React.js .</p>
-            <p>Organized UI in order to make app responsive, accessible and give great user experience .</p>
-            <p>Developed customized plugins for Data visualization using React.js (Typescript), HTML and CSS.
-</p>
-          </div>
-        </div> */}
+
       </div>
     </div>
   )

@@ -9,6 +9,7 @@ import {
   LinkedinShareButton,
   LinkedinIcon
 } from "react-share";
+import { Link } from "react-scroll";
 
 const Footer = () => {
   return (
@@ -29,18 +30,27 @@ const Footer = () => {
           <div className="col-lg-3 col-md-2 col-sm-6" >
             <div className="row">
               <div className="col">
-                <a className="footer-nav">Home</a>
+                {/* <a className="footer-nav">Home</a> */}
+                <Link smooth={true} to="home" className="footer-nav" href="#">Home</Link>
                 <br />
-                <a className="footer-nav">About me</a>
+                {/* <a className="footer-nav">About me</a> */}
+                <Link smooth={true} to="about" offset={-110} className="footer-nav" >about me</Link>
+
                 <br />
-                <a className="footer-nav">Services</a>
+                {/* <a className="footer-nav">Services</a> */}
+                <Link smooth={true} to="services" offset={-110} className="footer-nav" href="#">services</Link>
               </div>
               <div className="col">
-                <a className="footer-nav">Experience</a>
+                {/* <a className="footer-nav">Experience</a> */}
+                <Link smooth={true} to="experience" offset={-110} className="footer-nav" >experience</Link>
+
                 <br />
-                <a className="footer-nav">Portfolio</a>
+                {/* <a className="footer-nav">Portfolio</a> */}
+                <Link smooth={true} to="portfolio" offset={-110} className="footer-nav" >portfolio</Link>
+
                 <br />
-                <a className="footer-nav">Contacts</a>
+                {/* <a className="footer-nav">Contacts</a> */}
+                <Link smooth={true} to="contacts" offset={-110} className="footer-nav" >contacts</Link>
               </div>
             </div>
           </div>
