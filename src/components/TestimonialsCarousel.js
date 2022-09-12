@@ -34,13 +34,12 @@ const TestimonialsCarousel = () => {
           {/* <p>TPTS is a digital transformation partner with end to end solutions comprising hardware and software. Our suite of products can be tailored to fit a wide variety of sectors like Manufacturing, Infrastructure, Logistics, Hospitality etc. Our IoT based devices combined with ML, AI software are at the cutting edge of innovation. Our ecosystem of products allow our customers to adapt to the changing business environments and create value for themselves and their customers.</p> */}
         </div>
       </>
-      <>
+      {/* <>
         <img src={avatar1} alt="Three Phase Techno Solutions ( I ) Pvt Ltd." />
         <div className="myCarousel">
           <h3>Three Phase Techno Solutions ( I ) Pvt Ltd.</h3>
-          {/* <p>TPTS is a digital transformation partner with end to end solutions comprising hardware and software. Our suite of products can be tailored to fit a wide variety of sectors like Manufacturing, Infrastructure, Logistics, Hospitality etc. Our IoT based devices combined with ML, AI software are at the cutting edge of innovation. Our ecosystem of products allow our customers to adapt to the changing business environments and create value for themselves and their customers.</p> */}
         </div>
-      </>
+      </> */}
       <>
         <img src={avatar2} alt="Three Phase Technical Services LLC" />
         <div className="myCarousel">
