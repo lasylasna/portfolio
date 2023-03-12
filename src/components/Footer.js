@@ -21,7 +21,7 @@ const Footer = () => {
               <p>Lasna Kollathodi</p>
             </div>
             <div className="d-flex">
-              <a href="tel:555-555-555">+971-568296160</a>
+              <a href="tel:555-555-555">+64-223709521</a>
             </div>
             <div className="d-flex">
               <p>lasylasna@gmail.com</p>
