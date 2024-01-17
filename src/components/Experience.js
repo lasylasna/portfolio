@@ -7,30 +7,62 @@ const Experience = () => {
         <h1>experience</h1>
       </div>
       <div className="container experience-wrapper">
-        {/* DX mail */}
+        {/*Linkway Software Solutions */}
 
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2023-Present</h3>
-            <h5>
-              Data Assistant, DX mail (Freightways)
-            </h5>
+            <h3>2023 July - Present</h3>
+            <h5>Software Developer, Linkway Software Solutions</h5>
             <p>
-              Entering mail address in the database for Video encoding.
-              <br /> Route Mapping , entering the billing information and
-              reconciliation.
+              Building "Easy Stock Taker," a new Flutter mobile application.
               <br />
-              Process, sort and post all outbound mail.
+              Designing, developing, testing, and documenting UI designs for
+              aesthetically pleasing screens.
               <br />
-              Set up machinery for operation.
+              Reviewing code and ensuring quality.
+            </p>{" "}
+          </div>
+        </div>
+        {/* DX mail Admin */}
+
+        <div className="timeline-block timeline-block-left">
+          <div className="marker"></div>
+          <div className="timeline-content">
+            <h3>2023 Oct - Present</h3>
+            <h5>Admin and Database Support, DX mail (Freightways),</h5>
+            <p>
+              Maintain nationwide databases for data analysis, conduct data
+              integrity audits and resolve issues.
               <br />
-              Operate machinery and equipment , troubleshoot issues and perform
-              maintenance.
+              Acquire, process, cleanse, and upload data from various sources.
               <br />
-              Perform quality control, follow reporting and record-keeping
-              procedures,
+              Develop national reports, dashboards, and SQL procedures.
               <br />
+              Implement data visualization for dashboards.
+              <br />
+              Support recruitment tasks and assist in company-wide projects.
+              <br />
+              Import and transfer data to secure central database.
+            </p>{" "}
+          </div>
+        </div>
+
+        {/* DX mail Machine Operator */}
+
+        <div className="timeline-block timeline-block-right">
+          <div className="marker"></div>
+          <div className="timeline-content">
+            <h3>2023 Feb - 2023 Oct</h3>
+            <h5>Machine Operator/ Data Assistant, DX mail (Freightways)</h5>
+            <p>
+              Data entry for video encoding and billing information.
+              <br />
+              Route mapping, mail processing, forklift operation, machinery
+              setup, operation, and maintenance.
+              <br />
+              Street delivery network management, quality control,
+              recordkeeping, and error reporting for outbound mail sorting.
               Maintains logs and records of mail produced.
             </p>{" "}
           </div>
@@ -41,30 +73,26 @@ const Experience = () => {
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2021-2022</h3>
+            <h3>2021 July - 2022 Oct</h3>
             <h5>Front End Developer, Halza Software Solution LLC</h5>
             <p>
-              Front-end (web) development, test, release and support for HALZA’s
-              digital health solution within an agile-blended software
-              environment.
+              Front-end web development and support for HALZA's digital health
+              solution in an agile environment.
               <br />
-              Develop and implement practical technical solutions to support
-              product discovery and business development initiatives.
+              Implement practical technical solutions for product discovery and
+              business development.
               <br />
-              Work closely with other members of the product development team to
-              align technical solutions with the existing architecture. Perform
-              quality reviews and deploy updates and fixes.
+              Collaborate with the product development team to align solutions
+              with existing architecture.
               <br />
-              Tackle diverse business challenges with a focus on triaging and
-              providing simple technical or operational workarounds.
+              Perform quality reviews, deploy updates, and provide simple
+              technical workarounds.
               <br />
-              Contribute to developing internal processes to increase efficiency
-              and stability.
+              Contribute to internal process development for increased
+              efficiency and stability.
               <br />
-              Adjust standard procedures, when necessary, after benefits and
-              risks assessments in response to changing situations.
-              <br />
-              Implement translations, Caching strategy, iframe, PWA and SignalR.
+              Implement translations, caching strategy, iframe, PWA, and
+              SignalR.
             </p>{" "}
           </div>
         </div>
@@ -74,25 +102,17 @@ const Experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2020-2021</h3>
+            <h3>2020 June - 2021 June</h3>
             <h5>
               Development Engineer, Three Phase Techno Solution (I) Pvt Ltd
             </h5>
             <p>
-              Developed efficient and secure web applications (<b>Full stack</b>
-              ) within an agile blended software environment
+              Full-stack web application development in an agile environment.{" "}
               <br />
-              Collaborated closely with clients, both remotely and in-person, to
-              bring their ideas to life.
+              Ensured responsive, accessible UI for optimal user experience.
               <br />
-              Implemented Page Optimization techniques, Best Practices in
-              Javascript and React.js .
-              <br />
-              Organized UI in order to make app responsive, accessible and give
-              great user experience .
-              <br />
-              Developed customized plugins for Data visualization using React.js
-              (Typescript), HTML and CSS.
+              Created custom data visualization plugins using React.js, HTML,
+              and CSS.
             </p>{" "}
           </div>
         </div>
@@ -101,7 +121,7 @@ const Experience = () => {
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2015-2016</h3>
+            <h3>2015 Mar - 2016 Dec</h3>
             <h5>Junior Web Developer, Babte Technologies Pvt Ltd</h5>
             <p>
               Developed the front end of the entire website using HTML5, CSS3,
@@ -118,7 +138,7 @@ const Experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2014-2015</h3>
+            <h3>2014 Sep - 2015 Mar</h3>
             <h5>Software Engineer Trainee, Babte Technologies Pvt Ltd </h5>
             <p>
               Participated in designing and developing of various applications
