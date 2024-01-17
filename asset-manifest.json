@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.da42faa7.chunk.css",
+    "main.js": "/portfolio/static/js/main.94da578d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.94da578d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.f333771e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f333771e.js.map",
+    "static/css/2.6167e600.chunk.css": "/portfolio/static/css/2.6167e600.chunk.css",
+    "static/js/2.c88368a1.chunk.js": "/portfolio/static/js/2.c88368a1.chunk.js",
+    "static/js/2.c88368a1.chunk.js.map": "/portfolio/static/js/2.c88368a1.chunk.js.map",
+    "static/js/3.bfa3da7a.chunk.js": "/portfolio/static/js/3.bfa3da7a.chunk.js",
+    "static/js/3.bfa3da7a.chunk.js.map": "/portfolio/static/js/3.bfa3da7a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.6167e600.chunk.css.map": "/portfolio/static/css/2.6167e600.chunk.css.map",
+    "static/css/main.da42faa7.chunk.css.map": "/portfolio/static/css/main.da42faa7.chunk.css.map",
+    "static/js/2.c88368a1.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c88368a1.chunk.js.LICENSE.txt",
+    "static/media/avatar-1.dd877b36.png": "/portfolio/static/media/avatar-1.dd877b36.png",
+    "static/media/avatar-2.be9c5cd4.png": "/portfolio/static/media/avatar-2.be9c5cd4.png",
+    "static/media/city-guide-app.e34063c1.png": "/portfolio/static/media/city-guide-app.e34063c1.png",
+    "static/media/halza.53105f54.jpg": "/portfolio/static/media/halza.53105f54.jpg",
+    "static/media/halza365.1355b520.png": "/portfolio/static/media/halza365.1355b520.png",
+    "static/media/halzafull.2bbf4ac5.jpg": "/portfolio/static/media/halzafull.2bbf4ac5.jpg",
+    "static/media/me.6047d7cc.jpg": "/portfolio/static/media/me.6047d7cc.jpg",
+    "static/media/myhalza.bb63c6d8.png": "/portfolio/static/media/myhalza.bb63c6d8.png",
+    "static/media/netflix.84c7cb5a.png": "/portfolio/static/media/netflix.84c7cb5a.png",
+    "static/media/portfolio.a4285da9.png": "/portfolio/static/media/portfolio.a4285da9.png",
+    "static/media/st_home.53e3c07f.jpeg": "/portfolio/static/media/st_home.53e3c07f.jpeg",
+    "static/media/st_view.dcd80ea3.jpeg": "/portfolio/static/media/st_view.dcd80ea3.jpeg",
+    "static/media/task-manager.574f7f3c.png": "/portfolio/static/media/task-manager.574f7f3c.png",
+    "static/media/App.css": "/portfolio/static/media/wall-and-laptop-background.f9e274f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f333771e.js",
+    "static/css/2.6167e600.chunk.css",
+    "static/js/2.c88368a1.chunk.js",
+    "static/css/main.da42faa7.chunk.css",
+    "static/js/main.94da578d.chunk.js"
+  ]
+}
